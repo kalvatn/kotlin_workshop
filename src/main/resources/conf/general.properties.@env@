@@ -1,0 +1,9 @@
+
+MySqlDatabaseURL = jdbc:mysql://SELECT_URL:3306/odds
+MySqlSystemUserName =
+MySqlSystemPassword =
+
+
+backupdatabaseURL = jdbc:mysql://HISTORY_URL:3306/backup
+backupdatabaseUsername =
+backupdatabasePassword =
